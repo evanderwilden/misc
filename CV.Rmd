@@ -1,0 +1,73 @@
+---
+title: "CV"
+author: "Ethan vanderWilden"
+date: "9/10/2020"
+output:
+  html_document:
+    df_print: paged
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+#### Information
+
+Ethan vanderWilden
+
+Department address: N/A
+
+ethan.vanderwilden@wisc.edu
+
+Website: N/A
+
+Phone: 978-505-9966
+
+
+#### Education:
+
+BA in Government (with Honors) and Physics: Concentration Astrophysics, Colby College 2020
+
+#### Research experience:
+
+2018-Research Assistant for Professor Jennifer Yoder, Colby College
+
+  Project Title: The Politics of the Past in Europe
+  
+2019-Field Research in Spain, Self-directed Project, Colby College
+
+  Project Title: Ending the Spanish Exception: Explaining the Rise of Vox
+  
+  Support: Cal Mackenzie Fellowship, Davis Connects Student Funding
+
+
+#### Teaching experience:
+
+Undergraduate TA and Grader at Colby College:
+
+  AS 151 (2018, 2019, 2020)
+  
+  AS 231 (2019)
+  
+  AS 342 (2020)
+  
+
+#### Awards and fellowships:
+
+2-Year University Fellowship, UW-Madison (2020-21, additional year undetermined)
+
+Albert A. Mavrinac Prize, Colby College (2020)
+
+Cal Mackenzie Fellowship, Colby College (2019)
+
+
+#### Service/volunteer work:
+
+Volunteer, Waterville Public Library, Waterville, Maine (2019-20)
+
+
+#### Language and skills:
+
+Familiar with R, Stata, and Python
+
+Advanced Spanish
